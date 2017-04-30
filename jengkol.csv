@@ -1,0 +1,883 @@
+title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,product,price,sku,kondisi
+Jual Jaket Gunung Pria - MLB 027 Murah,jaket-gunung-pria-mlb-027,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Hobi mendaki gunung atau aktifitas outdoor lainnya? Tetap tampil trendy dan modis dengan fashion outdoor dari Trekking, brand perlengkapan outdoor asal Bandung. Jaket Gunung Pria - MLB 027 dengan bahan TASLAN ini dijamin awet.<br/>Kode : MLB 027<br/>Bahan : TASLAN<br/>Ukuran : M-L<br/>Berat : 0.8 kg<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         ID Penjual : BDRS<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-02-16,html,jaket-gunung-pria,trekking,jaket-gunung-pria,trekking,"Jaket Gunung Pria Bahan TASLAN, Ukuran M-L",https://images.lipatan.com/katalog-trekking-2016/foto-satuan/91-mlb-027.jpg,Jaket Gunung Pria - MLB 027,Rp 221.900,MLB 027,Baru
+Jual Jaket Gunung Pria - MLB 024 Murah,jaket-gunung-pria-mlb-024,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Hobi mendaki gunung atau aktifitas outdoor lainnya? Tetap tampil trendy dan modis dengan fashion outdoor dari Trekking, brand perlengkapan outdoor asal Bandung. Jaket Gunung Pria - MLB 024 dengan bahan TASLAN ini dijamin awet.<br/>Kode : MLB 024<br/>Bahan : TASLAN<br/>Ukuran : M-L<br/>Berat : 0.8 kg<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         ID Penjual : BDRS<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-02-16,html,jaket-gunung-pria,trekking,jaket-gunung-pria,trekking,"Jaket Gunung Pria Bahan TASLAN, Ukuran M-L",https://images.lipatan.com/katalog-trekking-2016/foto-satuan/92-mlb-024.jpg,Jaket Gunung Pria - MLB 024,Rp 221.900,MLB 024,Baru
+Jual Jaket Gunung Pria - RNJ 035 Murah,jaket-gunung-pria-rnj-035,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Hobi mendaki gunung atau aktifitas outdoor lainnya? Tetap tampil trendy dan modis dengan fashion outdoor dari Trekking, brand perlengkapan outdoor asal Bandung. Jaket Gunung Pria - RNJ 035 dengan bahan TASLAN ini dijamin awet.<br/>Kode : RNJ 035<br/>Bahan : TASLAN<br/>Ukuran : M-L<br/>Berat : 0.8 kg<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         ID Penjual : BDRS<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-02-16,html,jaket-gunung-pria,trekking,jaket-gunung-pria,trekking,"Jaket Gunung Pria Bahan TASLAN, Ukuran M-L",https://images.lipatan.com/katalog-trekking-2016/foto-satuan/93-rnj-035.jpg,Jaket Gunung Pria - RNJ 035,Rp 245.900,RNJ 035,Baru
+Jual Jaket Gunung Pria - RNJ 001 Murah,jaket-gunung-pria-rnj-001,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Hobi mendaki gunung atau aktifitas outdoor lainnya? Tetap tampil trendy dan modis dengan fashion outdoor dari Trekking, brand perlengkapan outdoor asal Bandung. Jaket Gunung Pria - RNJ 001 dengan bahan TASLAN ini dijamin awet.<br/>Kode : RNJ 001<br/>Bahan : TASLAN<br/>Ukuran : M-L<br/>Berat : 0.8 kg<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         ID Penjual : BDRS<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-02-16,html,jaket-gunung-pria,trekking,jaket-gunung-pria,trekking,"Jaket Gunung Pria Bahan TASLAN, Ukuran M-L",https://images.lipatan.com/katalog-trekking-2016/foto-satuan/94-rnj-001.jpg,Jaket Gunung Pria - RNJ 001,Rp 221.900,RNJ 001,Baru
+Jual Jaket Gunung Pria - MLB 030 Murah,jaket-gunung-pria-mlb-030,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Hobi mendaki gunung atau aktifitas outdoor lainnya? Tetap tampil trendy dan modis dengan fashion outdoor dari Trekking, brand perlengkapan outdoor asal Bandung. Jaket Gunung Pria - MLB 030 dengan bahan TASLAN ini dijamin awet.<br/>Kode : MLB 030<br/>Bahan : TASLAN<br/>Ukuran : M-L<br/>Berat : 0.8 kg<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         ID Penjual : BDRS<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-02-16,html,jaket-gunung-pria,trekking,jaket-gunung-pria,trekking,"Jaket Gunung Pria Bahan TASLAN, Ukuran M-L",https://images.lipatan.com/katalog-trekking-2016/foto-satuan/95-mlb-030.jpg,Jaket Gunung Pria - MLB 030,Rp 245.900,MLB 030,Baru
+Jual Jaket Gunung Pria - MLB 019 Murah,jaket-gunung-pria-mlb-019,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Hobi mendaki gunung atau aktifitas outdoor lainnya? Tetap tampil trendy dan modis dengan fashion outdoor dari Trekking, brand perlengkapan outdoor asal Bandung. Jaket Gunung Pria - MLB 019 dengan bahan TASLAN ini dijamin awet.<br/>Kode : MLB 019<br/>Bahan : TASLAN<br/>Ukuran : M-L<br/>Berat : 0.8 kg<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         ID Penjual : BDRS<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-02-16,html,jaket-gunung-pria,trekking,jaket-gunung-pria,trekking,"Jaket Gunung Pria Bahan TASLAN, Ukuran M-L",https://images.lipatan.com/katalog-trekking-2016/foto-satuan/96-mlb-019.jpg,Jaket Gunung Pria - MLB 019,Rp 221.900,MLB 019,Baru
+Jual Jaket Gunung Pria - MLB 025 Murah,jaket-gunung-pria-mlb-025,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Hobi mendaki gunung atau aktifitas outdoor lainnya? Tetap tampil trendy dan modis dengan fashion outdoor dari Trekking, brand perlengkapan outdoor asal Bandung. Jaket Gunung Pria - MLB 025 dengan bahan TASLAN ini dijamin awet.<br/>Kode : MLB 025<br/>Bahan : TASLAN<br/>Ukuran : M-L<br/>Berat : 0.8 kg<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         ID Penjual : BDRS<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-02-16,html,jaket-gunung-pria,trekking,jaket-gunung-pria,trekking,"Jaket Gunung Pria Bahan TASLAN, Ukuran M-L",https://images.lipatan.com/katalog-trekking-2016/foto-satuan/97-mlb-025.jpg,Jaket Gunung Pria - MLB 025,Rp 221.900,MLB 025,Baru
+Jual Jaket Gunung Pria - RNJ 030 Murah,jaket-gunung-pria-rnj-030,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Hobi mendaki gunung atau aktifitas outdoor lainnya? Tetap tampil trendy dan modis dengan fashion outdoor dari Trekking, brand perlengkapan outdoor asal Bandung. Jaket Gunung Pria - RNJ 030 dengan bahan TASLAN ini dijamin awet.<br/>Kode : RNJ 030<br/>Bahan : TASLAN<br/>Ukuran : M-L<br/>Berat : 0.8 kg<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         ID Penjual : BDRS<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-02-16,html,jaket-gunung-pria,trekking,jaket-gunung-pria,trekking,"Jaket Gunung Pria Bahan TASLAN, Ukuran M-L",https://images.lipatan.com/katalog-trekking-2016/foto-satuan/98-rnj-030.jpg,Jaket Gunung Pria - RNJ 030,Rp 228.900,RNJ 030,Baru
+Jual Jaket Gunung Pria - MLB 026 Murah,jaket-gunung-pria-mlb-026,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Hobi mendaki gunung atau aktifitas outdoor lainnya? Tetap tampil trendy dan modis dengan fashion outdoor dari Trekking, brand perlengkapan outdoor asal Bandung. Jaket Gunung Pria - MLB 026 dengan bahan TASLAN ini dijamin awet.<br/>Kode : MLB 026<br/>Bahan : TASLAN<br/>Ukuran : M-L<br/>Berat : 0.8 kg<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         ID Penjual : BDRS<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-02-16,html,jaket-gunung-pria,trekking,jaket-gunung-pria,trekking,"Jaket Gunung Pria Bahan TASLAN, Ukuran M-L",https://images.lipatan.com/katalog-trekking-2016/foto-satuan/99-mlb-026.jpg,Jaket Gunung Pria - MLB 026,Rp 221.900,MLB 026,Baru
+Jual Jaket Gunung Pria - MLB 020 Murah,jaket-gunung-pria-mlb-020,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Hobi mendaki gunung atau aktifitas outdoor lainnya? Tetap tampil trendy dan modis dengan fashion outdoor dari Trekking, brand perlengkapan outdoor asal Bandung. Jaket Gunung Pria - MLB 020 dengan bahan TASLAN ini dijamin awet.<br/>Kode : MLB 020<br/>Bahan : TASLAN<br/>Ukuran : M-L<br/>Berat : 0.8 kg<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         ID Penjual : BDRS<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-02-16,html,jaket-gunung-pria,trekking,jaket-gunung-pria,trekking,"Jaket Gunung Pria Bahan TASLAN, Ukuran M-L",https://images.lipatan.com/katalog-trekking-2016/foto-satuan/100-mlb-020.jpg,Jaket Gunung Pria - MLB 020,Rp 221.900,MLB 020,Baru
+Jual Jaket Gunung Pria - MLB 029 Murah,jaket-gunung-pria-mlb-029,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Hobi mendaki gunung atau aktifitas outdoor lainnya? Tetap tampil trendy dan modis dengan fashion outdoor dari Trekking, brand perlengkapan outdoor asal Bandung. Jaket Gunung Pria - MLB 029 dengan bahan TASLAN ini dijamin awet.<br/>Kode : MLB 029<br/>Bahan : TASLAN<br/>Ukuran : M-L<br/>Berat : 0.8 kg<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         ID Penjual : BDRS<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-02-16,html,jaket-gunung-pria,trekking,jaket-gunung-pria,trekking,"Jaket Gunung Pria Bahan TASLAN, Ukuran M-L",https://images.lipatan.com/katalog-trekking-2016/foto-satuan/101-mlb-029.jpg,Jaket Gunung Pria - MLB 029,Rp 245.900,MLB 029,Baru
+Jual Jaket Gunung Pria - RNJ 019 Murah,jaket-gunung-pria-rnj-019,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Hobi mendaki gunung atau aktifitas outdoor lainnya? Tetap tampil trendy dan modis dengan fashion outdoor dari Trekking, brand perlengkapan outdoor asal Bandung. Jaket Gunung Pria - RNJ 019 dengan bahan TASLAN ini dijamin awet.<br/>Kode : RNJ 019<br/>Bahan : TASLAN<br/>Ukuran : M-L<br/>Berat : 0.8 kg<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         ID Penjual : BDRS<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-02-16,html,jaket-gunung-pria,trekking,jaket-gunung-pria,trekking,"Jaket Gunung Pria Bahan TASLAN, Ukuran M-L",https://images.lipatan.com/katalog-trekking-2016/foto-satuan/102-rnj-019.jpg,Jaket Gunung Pria - RNJ 019,Rp 221.900,RNJ 019,Baru
+Jual Jaket Gunung Pria - MLB 028 Murah,jaket-gunung-pria-mlb-028,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Hobi mendaki gunung atau aktifitas outdoor lainnya? Tetap tampil trendy dan modis dengan fashion outdoor dari Trekking, brand perlengkapan outdoor asal Bandung. Jaket Gunung Pria - MLB 028 dengan bahan TASLAN ini dijamin awet.<br/>Kode : MLB 028<br/>Bahan : TASLAN<br/>Ukuran : M-L<br/>Berat : 0.8 kg<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         ID Penjual : BDRS<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-02-16,html,jaket-gunung-pria,trekking,jaket-gunung-pria,trekking,"Jaket Gunung Pria Bahan TASLAN, Ukuran M-L",https://images.lipatan.com/katalog-trekking-2016/foto-satuan/103-mlb-028.jpg,Jaket Gunung Pria - MLB 028,Rp 245.900,MLB 028,Baru
+Jual Jaket Gunung Pria - RNJ 018 Murah,jaket-gunung-pria-rnj-018,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Hobi mendaki gunung atau aktifitas outdoor lainnya? Tetap tampil trendy dan modis dengan fashion outdoor dari Trekking, brand perlengkapan outdoor asal Bandung. Jaket Gunung Pria - RNJ 018 dengan bahan TASLAN ini dijamin awet.<br/>Kode : RNJ 018<br/>Bahan : TASLAN<br/>Ukuran : M-L<br/>Berat : 0.8 kg<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         ID Penjual : BDRS<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-02-16,html,jaket-gunung-pria,trekking,jaket-gunung-pria,trekking,"Jaket Gunung Pria Bahan TASLAN, Ukuran M-L",https://images.lipatan.com/katalog-trekking-2016/foto-satuan/104-rnj-018.jpg,Jaket Gunung Pria - RNJ 018,Rp 221.900,RNJ 018,Baru
